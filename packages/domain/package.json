@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(cd ..; npm bin)/mocha"
+    "test": "$(cd ..; npm bin)/mocha",
+    "flow": "$(cd ..; npm bin)/flow"
   },
   "author": "janus",
   "license": "MIT"
