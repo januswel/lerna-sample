@@ -1,0 +1,11 @@
+{
+  "name": "sample-domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(cd ..; npm bin)/mocha"
+  },
+  "author": "janus",
+  "license": "MIT"
+}
